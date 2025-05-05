@@ -3,9 +3,9 @@ Challenge ONE 1 Back-End - Conversor de Moedas<br>
 Java Orientado a Objetos - Alura
 </h1>
 <div><h2>APRESENTAÇÃO:</h2>
-Esse projeto é um desafio dado no curso de java orientado a objetos do projeto ONE da Oracle em parceria com a Alura.
+<p>Esse projeto é um desafio dado no curso de java orientado a objetos do projeto ONE da Oracle em parceria com a Alura.
 Nele é possível é possivel ver a conversão de valores de moedas pré-estabelecidas e das quais você desejar!
-Real para Dólar, Dólar para Euro. As escolhas são suas, escolha o valor e a moeda para a conversão!
+Real para Dólar, Dólar para Euro. As escolhas são suas, escolha o valor e a moeda para a conversão!</p>
 </div>
 
 <table align="center">
